@@ -1,0 +1,8 @@
+mounts
+.dockerignore
+.gitignore
+.git
+LICENSE
+README
+docker-compose.yml
+Dockerfile

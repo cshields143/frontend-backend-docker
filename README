@@ -1,0 +1,5 @@
+To run:
+
+    $ docker-compose up
+
+Then go to `localhost:8000/viewall` or `localhost:8000/new:143`
